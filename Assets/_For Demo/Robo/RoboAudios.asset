@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9efb946db0f1a14590f23a1e6a00c72, type: 3}
+  m_Name: RoboAudios
+  m_EditorClassIdentifier: 
+  clips:
+  - name: welcome
+    clip: {fileID: 8300000, guid: 6b4f1b4c58b371246ac05ebc8b00c2d5, type: 3}
+  - name: topics
+    clip: {fileID: 8300000, guid: 01b3bff81960136488947d27956e2b00, type: 3}
+  - name: familiar
+    clip: {fileID: 8300000, guid: 80c53b48e3c388e489e21de16a59cf44, type: 3}
+  - name: controller
+    clip: {fileID: 8300000, guid: d5239abf3d37d3e4a908312d52b1a3e6, type: 3}
+  - name: highlight
+    clip: {fileID: 8300000, guid: 38930c26cdd7514418bec8db4ca5f44d, type: 3}
+  - name: balloonspawn
+    clip: {fileID: 8300000, guid: 645e9c0a79319a44e8055b2ed42eb1b8, type: 3}
+  - name: ballonpop
+    clip: {fileID: 8300000, guid: 49d1311bc5aeb7a4a9df3976022c157a, type: 3}
+  - name: rotate
+    clip: {fileID: 8300000, guid: 9a06782c6b900b94799808b57676a187, type: 3}
+  - name: table
+    clip: {fileID: 8300000, guid: f2fb714107c8ade4bbb8af3ac92a003c, type: 3}
+  - name: monitor
+    clip: {fileID: 8300000, guid: 7d66a4beeff4ae64f97ecc29ba3e7ceb, type: 3}
+  - name: basketball
+    clip: {fileID: 8300000, guid: 5b79703d341e2fb4585de0567f6ff052, type: 3}
+  - name: monsterball
+    clip: {fileID: 8300000, guid: a094fe10a96767042bb8b46fa681bbb2, type: 3}
+  - name: welldone
+    clip: {fileID: 8300000, guid: b910a3c6bdbdb1f4c944db816a198183, type: 3}
